@@ -6,6 +6,7 @@ excerpt: "第一个Blog."
 project: true
 tag:
 - blog
+- post
 comments: true    
 ---
 
